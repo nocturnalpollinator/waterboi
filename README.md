@@ -1,5 +1,5 @@
 # Waterboi
-A speach script to keep you hydrated. It has support for multiple phrases. 
+A speech script to keep you hydrated. It has support for multiple phrases. 
 
 ## Installation
 `ln -s [absolute-path-to-waterboi.sh] /usr/local/bin/waterboi`
